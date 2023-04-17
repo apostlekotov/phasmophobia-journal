@@ -4,8 +4,7 @@
 
 ## Description
 
-Web app created with Create React App + Tailwind CSS and powered with Typescript  
-_PWA support in progress_
+Progressive Web Application app created with React.js, Vite.js and Tailwind CSS 
 
 ### Getting Started
 
